@@ -1,0 +1,15 @@
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/home/minim/Документы/C#/final project/task/bin/Debug/net6.0/task
+/home/minim/Документы/C#/final project/task/bin/Debug/net6.0/task.deps.json
+/home/minim/Документы/C#/final project/task/bin/Debug/net6.0/task.runtimeconfig.json
+/home/minim/Документы/C#/final project/task/bin/Debug/net6.0/task.dll
+/home/minim/Документы/C#/final project/task/bin/Debug/net6.0/task.pdb
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.dll
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/refint/task.dll
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.pdb
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/home/minim/Документы/C#/final project/task/obj/Debug/net6.0/ref/task.dll
